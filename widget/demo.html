@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>orieb-chat demo</title>
+  <style>
+    body { font-family: system-ui, sans-serif; max-width: 640px; margin: 3rem auto; padding: 0 1rem; line-height: 1.6; color-scheme: light dark; }
+    code { background: rgba(127,127,127,.18); padding: 2px 5px; border-radius: 4px; }
+    button { font: inherit; padding: 6px 12px; margin-inline-end: 8px; }
+  </style>
+</head>
+<body>
+  <h1>orieb-chat demo</h1>
+  <p>Run the backend with <code>npm run dev</code> (port 8787; works offline without an API key), then open this file through any static server, for example <code>npx serve .</code> from the repo root, and visit <code>/widget/demo.html</code>.</p>
+  <p>
+    <button id="en" type="button">English</button>
+    <button id="ar" type="button">العربية</button>
+  </p>
+
+  <script src="./chat-widget.js"></script>
+  <orieb-chat id="chat" endpoint="http://localhost:8787/v1/chat"></orieb-chat>
+
+  <script>
+    // The widget reads document.documentElement.lang when it has no lang attribute.
+    function setLang(l) {
+      document.documentElement.lang = l;
+      document.documentElement.dir = l === 'ar' ? 'rtl' : 'ltr';
+      document.getElementById('chat').setAttribute('lang', l); // triggers a re-render
+    }
+    document.getElementById('en').onclick = () => setLang('en');
+    document.getElementById('ar').onclick = () => setLang('ar');
+  </script>
+</body>
+</html>

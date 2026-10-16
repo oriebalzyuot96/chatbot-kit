@@ -1,0 +1,20 @@
+{
+  "name": "chatbot-kit",
+  "version": "1.0.0",
+  "description": "Reusable website chatbot: a dependency-free Node backend (SSE) and a vanilla web component widget.",
+  "type": "module",
+  "license": "MIT",
+  "author": "Orieb Alzyuot",
+  "private": true,
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node --env-file-if-exists=.env server/index.js",
+    "test": "node --test \"tests/**/*.test.js\""
+  },
+  "devDependencies": {
+    "jsdom": "^26.1.0"
+  }
+}

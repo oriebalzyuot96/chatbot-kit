@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: orieb-chatbot
+    runtime: node
+    plan: free
+    buildCommand: "true"
+    startCommand: node server/index.js
+    healthCheckPath: /health
+    envVars:
+      - key: NODE_VERSION
+        value: "24"
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      - key: ALLOWED_ORIGINS
+        value: "https://oriebalzyuot96.github.io"
+      - key: CHAT_MODEL
+        value: "claude-haiku-5-5"
+      - key: TRUST_PROXY
+        value: "true"

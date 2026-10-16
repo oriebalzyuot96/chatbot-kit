@@ -1,0 +1,294 @@
+{
+  "name": "Orieb Alzyuot",
+  "role": {
+    "en": "Senior Front-End and Full-Stack Engineer",
+    "ar": "مهندس واجهات أمامية وتطوير متكامل (Full-Stack) بخبرة عالية"
+  },
+  "location": {
+    "en": "Amman, Jordan (remote)",
+    "ar": "عمّان، الأردن (عن بُعد)"
+  },
+  "experience": {
+    "en": "6+ years of experience",
+    "ar": "أكثر من 6 سنوات من الخبرة"
+  },
+  "languages": [
+    "English",
+    "Arabic"
+  ],
+  "skills": [
+    "Angular (AngularJS up to Angular v22)",
+    "React",
+    "React Native",
+    "Node.js",
+    ".NET Core",
+    "Accessibility",
+    "Arabic RTL interfaces"
+  ],
+  "employer": {
+    "en": "Works at Saudi Azm (Azm Digital) on Saudi government and fintech platforms.",
+    "ar": "يعمل في شركة عزم السعودية (Azm Digital) على منصات حكومية ومالية (فينتك) سعودية."
+  },
+  "workProjects": [
+    {
+      "name": "Wasl",
+      "scope": "front-end only"
+    },
+    {
+      "name": "Saudi Engineering Arbitration Center",
+      "scope": "front-end only"
+    },
+    {
+      "name": "Mirafh (Estates module)",
+      "scope": "front-end only"
+    },
+    {
+      "name": "Insaf",
+      "scope": "full-stack"
+    }
+  ],
+  "openSource": [
+    {
+      "name": "Pelagic UI",
+      "install": "npm i pelagic",
+      "description": {
+        "en": "An open-source UI library by Orieb.",
+        "ar": "مكتبة واجهات مفتوحة المصدر من تطوير أوريب."
+      }
+    },
+    {
+      "name": "Nawa Captcha",
+      "install": "npm i nawa-captcha",
+      "description": {
+        "en": "An open-source captcha library by Orieb.",
+        "ar": "مكتبة كابتشا مفتوحة المصدر من تطوير أوريب."
+      }
+    }
+  ],
+  "projects": [
+    {
+      "name": "5min Refresh",
+      "link": "https://oriebalzyuot96.github.io/samples/5min-refresh/",
+      "description": {
+        "en": "A personal project, live as a sample on the portfolio.",
+        "ar": "مشروع شخصي متاح كنموذج على الموقع الشخصي."
+      }
+    },
+    {
+      "name": "5min API",
+      "link": "https://oriebalzyuot96.github.io/samples/5min-refresh/",
+      "description": {
+        "en": "A personal project, shown together with 5min Refresh at the same sample page.",
+        "ar": "مشروع شخصي يُعرض مع 5min Refresh في صفحة النموذج نفسها."
+      }
+    }
+  ],
+  "links": {
+    "portfolio": "https://oriebalzyuot96.github.io",
+    "cv": "https://oriebalzyuot96.github.io/Orieb-Alzyuot-CV.pdf"
+  },
+  "contactPolicy": {
+    "en": "No email address or phone number is shared in this chat. Please use the contact options on the portfolio website: https://oriebalzyuot96.github.io",
+    "ar": "لا يتم نشر بريد إلكتروني أو رقم هاتف في هذه المحادثة. يرجى استخدام وسائل التواصل المتاحة في الموقع الشخصي: https://oriebalzyuot96.github.io"
+  },
+  "unknown": {
+    "en": "I do not know that based on the information I have. You can check the portfolio at https://oriebalzyuot96.github.io or the CV at https://oriebalzyuot96.github.io/Orieb-Alzyuot-CV.pdf.",
+    "ar": "لا أعرف ذلك بناءً على المعلومات المتوفرة لدي. يمكنك الاطلاع على الموقع https://oriebalzyuot96.github.io أو السيرة الذاتية https://oriebalzyuot96.github.io/Orieb-Alzyuot-CV.pdf."
+  },
+  "faq": [
+    {
+      "id": "hello",
+      "keywords": [
+        "hello",
+        "hi ",
+        "hey",
+        "مرحبا",
+        "اهلا",
+        "أهلا",
+        "السلام"
+      ],
+      "en": "Hello! I am an assistant that answers questions about Orieb Alzyuot, a Senior Front-End and Full-Stack Engineer. Ask me about his skills, projects, open-source libraries or CV.",
+      "ar": "مرحباً! أنا مساعد يجيب عن الأسئلة حول أوريب الزيود، مهندس واجهات أمامية وتطوير متكامل بخبرة عالية. اسألني عن مهاراته أو مشاريعه أو مكتباته مفتوحة المصدر أو سيرته الذاتية."
+    },
+    {
+      "id": "about",
+      "keywords": [
+        "who is",
+        "who's",
+        "introduce",
+        "tell me about orieb",
+        "من هو",
+        "من اوريب",
+        "عن اوريب",
+        "نبذة",
+        "تعريف"
+      ],
+      "en": "Orieb Alzyuot is a Senior Front-End and Full-Stack Engineer based in Amman (remote) with 6+ years of experience. He works in English and Arabic and focuses on Angular, React, Node.js, accessibility and Arabic RTL interfaces. Portfolio: https://oriebalzyuot96.github.io",
+      "ar": "أوريب الزيود مهندس واجهات أمامية وتطوير متكامل بخبرة عالية، مقيم في عمّان (عن بُعد) وخبرته أكثر من 6 سنوات. يعمل بالعربية والإنجليزية ويركز على Angular وReact وNode.js وإمكانية الوصول والواجهات العربية من اليمين لليسار. الموقع: https://oriebalzyuot96.github.io"
+    },
+    {
+      "id": "skills",
+      "keywords": [
+        "skill",
+        "tech",
+        "stack",
+        "angular",
+        "react",
+        "node",
+        "net core",
+        ".net",
+        "accessib",
+        "rtl",
+        "مهار",
+        "تقني",
+        "تقنيات",
+        "لغات برمجة",
+        "انجولار",
+        "ريأكت",
+        "رياكت"
+      ],
+      "en": "Skills: Angular (AngularJS up to v22), React, React Native, Node.js, .NET Core, accessibility and Arabic RTL interfaces.",
+      "ar": "المهارات: Angular (من AngularJS حتى الإصدار 22)، وReact، وReact Native، وNode.js، و.NET Core، وإمكانية الوصول، والواجهات العربية من اليمين لليسار."
+    },
+    {
+      "id": "work",
+      "keywords": [
+        "work",
+        "job",
+        "employ",
+        "company",
+        "azm",
+        "wasl",
+        "mirafh",
+        "insaf",
+        "arbitration",
+        "government",
+        "fintech",
+        "experience",
+        "عمل",
+        "يعمل",
+        "شركة",
+        "عزم",
+        "وصل",
+        "مرافح",
+        "انصاف",
+        "إنصاف",
+        "تحكيم",
+        "خبرة",
+        "خبره",
+        "حكومي"
+      ],
+      "en": "Orieb works at Saudi Azm (Azm Digital) on Saudi government and fintech platforms. He did front-end only on Wasl, the Saudi Engineering Arbitration Center and Mirafh (Estates module), and full-stack work on Insaf. He has 6+ years of experience.",
+      "ar": "يعمل أوريب في شركة عزم السعودية (Azm Digital) على منصات حكومية ومالية سعودية. عمل على الواجهات الأمامية فقط في منصة وصل والمركز السعودي للتحكيم الهندسي ومرافح (وحدة العقارات)، وعلى التطوير المتكامل في منصة إنصاف. خبرته أكثر من 6 سنوات."
+    },
+    {
+      "id": "libraries",
+      "keywords": [
+        "open source",
+        "open-source",
+        "library",
+        "libraries",
+        "npm",
+        "pelagic",
+        "nawa",
+        "captcha",
+        "مكتبة",
+        "مكتبات",
+        "مفتوح",
+        "كابتشا"
+      ],
+      "en": "Open-source libraries: Pelagic UI (npm i pelagic) and Nawa Captcha (npm i nawa-captcha).",
+      "ar": "المكتبات مفتوحة المصدر: Pelagic UI (الأمر: npm i pelagic) وNawa Captcha (الأمر: npm i nawa-captcha)."
+    },
+    {
+      "id": "projects",
+      "keywords": [
+        "project",
+        "portfolio",
+        "sample",
+        "demo",
+        "5min",
+        "refresh",
+        "api",
+        "مشروع",
+        "مشاريع",
+        "اعمال",
+        "أعمال",
+        "نموذج"
+      ],
+      "en": "Personal projects include 5min Refresh and 5min API: https://oriebalzyuot96.github.io/samples/5min-refresh/ . More on the portfolio: https://oriebalzyuot96.github.io",
+      "ar": "من مشاريعه الشخصية 5min Refresh و5min API: https://oriebalzyuot96.github.io/samples/5min-refresh/ . المزيد في الموقع: https://oriebalzyuot96.github.io"
+    },
+    {
+      "id": "cv",
+      "keywords": [
+        "cv",
+        "resume",
+        "résumé",
+        "سيرة",
+        "سيره"
+      ],
+      "en": "You can download Orieb's CV here: https://oriebalzyuot96.github.io/Orieb-Alzyuot-CV.pdf",
+      "ar": "يمكنك تحميل السيرة الذاتية لأوريب من هنا: https://oriebalzyuot96.github.io/Orieb-Alzyuot-CV.pdf"
+    },
+    {
+      "id": "contact",
+      "keywords": [
+        "contact",
+        "email",
+        "e-mail",
+        "phone",
+        "reach",
+        "hire",
+        "call",
+        "تواصل",
+        "اتصال",
+        "بريد",
+        "ايميل",
+        "إيميل",
+        "هاتف",
+        "رقم",
+        "توظيف"
+      ],
+      "en": "No email address or phone number is shared in this chat. Please use the contact options on the portfolio website: https://oriebalzyuot96.github.io",
+      "ar": "لا يتم نشر بريد إلكتروني أو رقم هاتف في هذه المحادثة. يرجى استخدام وسائل التواصل المتاحة في الموقع الشخصي: https://oriebalzyuot96.github.io"
+    },
+    {
+      "id": "location",
+      "keywords": [
+        "location",
+        "based",
+        "live",
+        "amman",
+        "jordan",
+        "remote",
+        "أين",
+        "اين",
+        "موقع",
+        "عمان",
+        "عمّان",
+        "الأردن",
+        "الاردن",
+        "يسكن"
+      ],
+      "en": "Orieb is based in Amman, Jordan, and works remotely.",
+      "ar": "يقيم أوريب في عمّان، الأردن، ويعمل عن بُعد."
+    },
+    {
+      "id": "languages",
+      "keywords": [
+        "language",
+        "arabic",
+        "english",
+        "speak",
+        "لغة",
+        "عربي",
+        "عربية",
+        "انجليزي",
+        "إنجليزي"
+      ],
+      "en": "Orieb works in English and Arabic, including Arabic right-to-left (RTL) interfaces.",
+      "ar": "يعمل أوريب بالعربية والإنجليزية، بما في ذلك الواجهات العربية من اليمين لليسار."
+    }
+  ]
+}
